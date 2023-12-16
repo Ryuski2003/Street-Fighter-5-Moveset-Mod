@@ -1,2 +1,6 @@
 # Street-Fighter-5-Moveset-Mod
 This is a mod for SFV that gives RYU, Ken &amp; Akuma new moveset.
+
+Extract the mod zip to FluffyQuack SFV mods folder(/FluffyQuack Folder/Games/SF5/Mods)
+
+New moves are on command list of characters.
