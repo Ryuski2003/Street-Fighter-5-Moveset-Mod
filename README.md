@@ -6,4 +6,5 @@ Extract the mod folder to FluffyQuack SFV mods folder(/FluffyQuack Folder/Games/
 New moves are on command list of characters.
 
 Ryu Showcase: https://www.youtube.com/watch?v=rnDFqzFDCGw&t=12s
+
 Ken Showcase: https://www.youtube.com/watch?v=X10VvMO92NA&t=23s
