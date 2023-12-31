@@ -8,3 +8,5 @@ New moves are on command list of characters.
 Ryu Showcase: https://www.youtube.com/watch?v=rnDFqzFDCGw&t
 
 Ken Showcase: https://www.youtube.com/watch?v=X10VvMO92NA&t
+
+Akuma Showcase: https://www.youtube.com/watch?v=f_EcuODpJkA
